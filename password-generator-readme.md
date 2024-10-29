@@ -38,7 +38,7 @@ brew install figlet
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/blueiewu/password-generator.git
 cd password-generator
 ```
 
@@ -107,10 +107,6 @@ password-generator/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
 
 ## Acknowledgments
 
