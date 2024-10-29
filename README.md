@@ -44,14 +44,14 @@ cd password-generator
 
 2. Make the script executable:
 ```bash
-chmod +x password-gen.sh
+chmod +x password-generator.sh
 ```
 
 ## Usage
 
 Run the script:
 ```bash
-./password-gen.sh
+./password-generator.sh
 ```
 
 Follow the prompts:
