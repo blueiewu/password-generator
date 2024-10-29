@@ -2,8 +2,6 @@
 
 A bash script that generates strong random passwords and displays them with ASCII art. The tool includes a beautiful ASCII banner and supports clipboard integration for easy password copying.
 
-![Password Generator Banner](https://raw.githubusercontent.com/your-username/password-generator/main/banner.png)
-
 ## Features
 
 - 🎨 Custom ASCII art banner
